@@ -13,4 +13,5 @@ Technologies used:-
 7.GITHUB
 8.ATOM / VISUAL STUDIO EDITOR
 
+Note- use XAMPP to view this project.
 
