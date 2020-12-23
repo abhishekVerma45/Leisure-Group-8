@@ -1,0 +1,42 @@
+.player{
+height: 10%;
+width: 100%;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    background-color:#101010;
+    color:#fff;
+  }
+  /* Navigation Bar */
+.navbar-brand {
+    font-family: Ubuntu;
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .navbar {
+    margin:2rem;
+    background-color:#101010;
+    color:#fff;
+    
+  }
+  .logoimg{
+    text-align: center;
+  }
+  .nav-link {
+    padding: 0 18px;
+    font-family: "Montserrat";
+    font-size: 1.2rem;
+  }
+  .dropdown-item{
+    font-size: 1rem;
+    background-color: #fff;
+  }
+  .press-logo{
+    /* width: 15%; */
+    width: 10%;
+    height: 10%;
+    /* margin:20px 20px 50px; */
+    margin:20px 100px 50px;
+  }
